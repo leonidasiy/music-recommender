@@ -21,6 +21,10 @@ cd music-recommender
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
+
+cp config.template.yaml config.yaml
+# Edit config.yaml with your credentials
+
 unalias python
 python src/main.py
 
