@@ -1,0 +1,38 @@
+# Configuration (contains secrets)
+config.yaml
+credentials.json
+token.pickle
+keen-proton-467208-c6-50156cb1c6f0.json
+
+# Cache
+songs_metadata_cache.json
+taste_profile_cache.json
+.cache/
+
+# Output directory
+out/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

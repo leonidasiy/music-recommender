@@ -1,0 +1,8 @@
+google-api-python-client>=2.100.0
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+mutagen>=1.47.0
+spotipy>=2.23.0
+PyYAML>=6.0.1
+requests>=2.31.0
+musicbrainzngs>=0.7.1
